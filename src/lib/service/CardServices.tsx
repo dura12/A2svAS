@@ -11,16 +11,19 @@ export const JobsApi = createApi({
         method: "GET",
       }),
     }),
+    getSuccessStory: builder.query({
+        query: () => ({
+          url: "/success-stories",
+          method: "GET",
+        }),
+      }),
     getDescription: builder.query({
-      query: (data: { token: string; id: string }) => ({
-        url: `/search/${data.id}`,
+      query: (id: string ) => ({
+        url: `/blogs/${id}`,
         method: "GET",
-        headers: {
-          Authorization: `Bearer ${data.token}`,
-        },
       }),
     }),
   }),
 });
 
-export const { useGetAllJobsQuery, useGetDescriptionQuery } = JobsApi;
+export const { useGetAllJobsQuery, useGetSuccessStoryQuery , useGetDescriptionQuery } = JobsApi;
