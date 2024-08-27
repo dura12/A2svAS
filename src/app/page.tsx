@@ -10,6 +10,7 @@ import Description from "@/components/description";
 const App = ()=>{
   return (
     <>
+      <Search/>
      <Card/>
     </>
      
