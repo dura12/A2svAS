@@ -39,5 +39,6 @@
 
 ## Screenshots
 
-**Home Page:**
-![Uploading Screenshot from 2024-08-27 18-13-21.png…]()
+** Page:**
+![Screenshot from 2024-08-27 18-13-21](https://github.com/user-attachments/assets/1c59dcc9-19cf-4e1f-9158-64faf8b8ad6e)
+
