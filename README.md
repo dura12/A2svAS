@@ -1,40 +1,44 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Features
+-fetching data from endpoint api
+-displaying data
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Technologies Used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js:** Leverage the power of this popular React framework to build a performant and scalable application.
+- **TypeScript:** Enjoy the benefits of static typing and improved developer experience.
+- **Tailwind CSS:** Rapidly style your application with this utility-first CSS framework.
+- **NextAuth:** Integrate this powerful authentication library to handle all your authentication needs.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Clone the Repository**
 
-## Learn More
+    ```bash
+    git clone https://github.com/dura12/A2svAS.git
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+2. **Navigate to the project directory**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    ```bash
+    cd my-next-app
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. **Install the necessary dependencies**
 
-## Deploy on Vercel
+    ```bash
+    npm install
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. **Start the development server**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# AssassmentA2sv
->>>>>>> 4b176365201acbdd26841b36dad4d06b855d1563
+    ```bash
+    npm run dev
+    ```
+
+## Screenshots
+
+**Home Page:**
+
+![Screenshot from 2024-08-25 20-47-48](https://github.com/user-attachments/assets/21cde1ff-1d4e-4155-9ec4-a155dc5281de)
