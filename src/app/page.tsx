@@ -8,11 +8,11 @@ import Footer from "@/components/footer";
 import Description from "@/components/description";
 const App = ()=>{
   return (
-    <>
+    <div>
     <Search/>
      <Card/>
     
-    </>
+    </div>
      
   );
 
