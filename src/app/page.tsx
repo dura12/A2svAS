@@ -1,5 +1,4 @@
-// import { SessionProvider } from "next-auth/react";
-// import type { AppProps } from "next/app";
+
 'use client'
 import React from "react";
 import NavBar from "@/components/navBar";
@@ -10,7 +9,9 @@ import Description from "@/components/description";
 const App = ()=>{
   return (
     <>
+    <Search/>
      <Card/>
+    
     </>
      
   );

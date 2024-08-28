@@ -11,7 +11,7 @@ const NavBar = () => {
         <Link href = "#">Team</Link>
         <Link href = "#">Success Stories</Link>
         <Link href = "#">About Us</Link>
-        <Link href = "#">Blogs</Link>
+        <Link href = "#" className='text-blue-700'>Blogs</Link>
         <Link href = "#">Get Involved</Link>
         </div>
        <div className='flex col-span-2 gap-5 mr-3'>
