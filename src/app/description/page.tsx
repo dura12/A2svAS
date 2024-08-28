@@ -1,11 +1,12 @@
+import React, { Suspense } from 'react';
+import Description from '../../components/Description';
 
-import React from 'react';
-import Description from '../../components/description';
-
-const Desck: React.FC = () => {
+const Page = () => {
   return (
-    <Description />
+    <Suspense>
+      <Description />
+    </Suspense>
   );
 };
 
-export default Desck;
+export default Page;

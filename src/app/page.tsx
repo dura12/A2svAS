@@ -5,7 +5,7 @@ import NavBar from "@/components/navBar";
 import Search from "@/components/search";
 import Card from "@/components/card";
 import Footer from "@/components/footer";
-import Description from "@/components/description";
+import Description from "@/components/Description";
 const App = ()=>{
   return (
     <div>
