@@ -37,26 +37,3 @@
     ```bash
     npm run dev
     ```
-
-## Screenshots
-
-**Home Page:**
-
-![Screenshot from 2024-08-25 20-47-48](https://github.com/user-attachments/assets/21cde1ff-1d4e-4155-9ec4-a155dc5281de)
-=======
-
-    ```bash
-    npm install
-    ```
-
-4. **Start the development server**
-
-    ```bash
-    npm run dev
-    ```
-
-## Screenshots
-
-
-
->>>>>>> 0a5981fad614c4881df0e4eb19b81be65f54c4eb
